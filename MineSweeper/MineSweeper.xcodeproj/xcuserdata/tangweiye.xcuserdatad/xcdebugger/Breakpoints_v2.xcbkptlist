@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "98133C2F-785F-4684-9915-268ECB83EC52"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "678FE6D7-630B-46E2-9A67-1F6A9AC988D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/functions/ButtonLogics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "buttonLogic(space:mineField:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F61486D8-E835-403F-9878-7923B7386378"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/MineSweeperApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/functions/ButtonLogics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "buttonLogic(space:mineField:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF - 9bd6001a22927929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogic(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; (isLose: Swift.Bool, confStr: Swift.String)"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF - 9bd6001a22927929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogic(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; (isLose: Swift.Bool, confStr: Swift.String)"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF - 76300ccbc3adffce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogic(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; Swift.Bool"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF - 6cafd1ea87417346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogic(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; MineSweeper.Space"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF - 5b8e35e813e0f469"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogic(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; ()"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "EF2EA596-B156-4EB3-92D2-3F0F03F376FF - 5b8e35e813e0f5af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogic(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; ()"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "835ECEEF-4DB1-442D-A42C-B36A43C22922"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/view/SpaceView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "835ECEEF-4DB1-442D-A42C-B36A43C22922 - 5e61b939ab405bd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.SpaceView.body.getter : some"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/view/SpaceView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "835ECEEF-4DB1-442D-A42C-B36A43C22922 - 50fe29d32c820265"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MineSweeper.SpaceView.body.getter : some"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/view/SpaceView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "835ECEEF-4DB1-442D-A42C-B36A43C22922 - 50fe29d32c8203e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in MineSweeper.SpaceView.body.getter : some"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/view/SpaceView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B3F0C76-97CE-4D80-8421-B6A21C58667A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/functions/FuncsOfImpl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "checkAroundFromCurrentRectangle(input:mineField:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B3F0C76-97CE-4D80-8421-B6A21C58667A - 6efec94b05e2b5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.FuncsOfImpl.checkAroundFromCurrentRectangle(input: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; ()"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/FuncsOfImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "9B3F0C76-97CE-4D80-8421-B6A21C58667A - 6efec94b05e2b5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.FuncsOfImpl.checkAroundFromCurrentRectangle(input: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; ()"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/FuncsOfImpl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2596D22F-49F8-4A15-82C6-06EA4EC40B3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/functions/ButtonLogics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "buttonLogic(space:mineField:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A730858-A54A-4B5A-B5E2-69656C978AA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/view/GameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70536474-D3A9-4E8B-A55E-9C6509F80D82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MineSweeper/functions/ButtonLogics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "buttonLogicRightSide(space:mineField:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70536474-D3A9-4E8B-A55E-9C6509F80D82 - 91ce6a36f10fc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogicRightSide(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; Swift.Bool"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "70536474-D3A9-4E8B-A55E-9C6509F80D82 - 91ce6a36f10fc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogicRightSide(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; Swift.Bool"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "70536474-D3A9-4E8B-A55E-9C6509F80D82 - 91ce6a36f10fc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MineSweeper.ButtonLogics.buttonLogicRightSide(space: MineSweeper.Space, mineField: MineSweeper.MineField) -&gt; Swift.Bool"
+                  moduleName = "MineSweeper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tangweiye/Desktop/FilesOfSwift/MineSweeper%202/MineSweeper/functions/ButtonLogics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
